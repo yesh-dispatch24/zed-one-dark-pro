@@ -1,9 +1,9 @@
 {
-  "name": "One Dark Pro",
+  "name": "One Dark Pro (Yesh)",
   "author": "One Dark Pro: Zed Theme Importer",
   "themes": [
     {
-      "name": "One Dark Pro",
+      "name": "One Dark Pro (Yesh)",
       "appearance": "dark",
       "style": {
         "border": "#3e4452",
@@ -237,6 +237,11 @@
             "font_weight": null
           },
           "variable.special": {
+            "color": "#e5c07b",
+            "font_style": null,
+            "font_weight": null
+          },
+          "boolean": {
             "color": "#e5c07b",
             "font_style": null,
             "font_weight": null
